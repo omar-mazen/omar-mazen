@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm omar mazen</h1>
+<h1 align="left">Hi 👋, I'm Omar Mazen</h1>
 <h3 align="left">Frontend and Cross-Platform Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-mazen&label=Profile%20views&color=0e75b6&style=flat" alt="omar-mazen" /> </p>
