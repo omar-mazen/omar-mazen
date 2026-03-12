@@ -18,11 +18,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&theme=dracula&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&theme=dracula&include_all_commits=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&layout=compact&theme=dracula&langs_count=20"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&layout=compact&theme=dracula&langs_count=20&include_all_commits=true"
     height="180"
   />
 </div>
