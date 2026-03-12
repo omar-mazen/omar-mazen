@@ -22,7 +22,7 @@
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&layout=compact&theme=dracula&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-mazen&layout=compact&theme=dracula&langs_count=10&cache_seconds=1800"
     height="180"
   />
 </div>
