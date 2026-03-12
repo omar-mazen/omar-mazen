@@ -18,7 +18,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&theme=dracula&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=omar-mazen&show_icons=true&theme=dracula"
     height="180"
   />
   <img
